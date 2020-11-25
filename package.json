@@ -23,6 +23,8 @@
     "hast-util-select": "^4.0.1",
     "hast-util-to-string": "^1.0.4",
     "node-summary": "github:jbrooksuk/node-summary#1.1.0",
-    "tape": "^5.0.1"
+    "tape": "^5.0.1",
+    "wink-distance": "^2.0.0",
+    "wink-nlp-utils": "^2.0.6"
   }
 }
